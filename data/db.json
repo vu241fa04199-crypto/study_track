@@ -1,0 +1,262 @@
+{
+  "users": [
+    {
+      "id": "user_demo",
+      "name": "Aarav Sharma",
+      "email": "demo@study.track",
+      "password": "$2a$10$D3Y46Ez7JIxRxLvtvz0P2OT7WxvHTePh/nvAyJDKDopSs02ExY9iO",
+      "createdAt": "2026-11-13T15:17:51.246Z"
+    }
+  ],
+  "checklists": [
+    {
+      "id": "rkhkuqd7mwf4fbwu",
+      "userId": "user_demo",
+      "title": "Data Structures — Final Revision",
+      "subject": "Computer Science",
+      "color": "#6366f1",
+      "deadline": "2026-12-01",
+      "createdAt": "2026-11-13T15:17:51.246Z",
+      "topics": [
+        {
+          "id": "rt0svpdpmwf4fbwu",
+          "title": "Arrays & Strings — revision + 20 problems",
+          "section": "Unit 1",
+          "notes": "",
+          "completed": true,
+          "completedAt": "2026-11-13",
+          "order": 0
+        },
+        {
+          "id": "z37qgycemwf4fbwu",
+          "title": "Linked Lists (singly, doubly, circular)",
+          "section": "Unit 1",
+          "notes": "",
+          "completed": true,
+          "completedAt": "2026-11-13",
+          "order": 1
+        },
+        {
+          "id": "js2d6nbrmwf4fbwu",
+          "title": "Stacks & Queues — applications",
+          "section": "Unit 2",
+          "notes": "",
+          "completed": true,
+          "completedAt": "2026-11-13",
+          "order": 2
+        },
+        {
+          "id": "u3rew4lqmwf4fbwu",
+          "title": "Trees: traversals, BST operations",
+          "section": "Unit 2",
+          "notes": "Focus on deletion in BST",
+          "completed": false,
+          "completedAt": null,
+          "order": 3
+        },
+        {
+          "id": "xslqh778mwf4fbwu",
+          "title": "AVL & Red-Black Trees",
+          "section": "Unit 2",
+          "notes": "",
+          "completed": false,
+          "completedAt": null,
+          "order": 4
+        },
+        {
+          "id": "cctr3r3umwf4fbwu",
+          "title": "Graphs: BFS, DFS, Dijkstra",
+          "section": "Unit 3",
+          "notes": "Practice 5 graph problems",
+          "completed": false,
+          "completedAt": null,
+          "order": 5
+        },
+        {
+          "id": "s7ydxqulmwf4fbwu",
+          "title": "Hashing & Collision Resolution",
+          "section": "Unit 3",
+          "notes": "",
+          "completed": false,
+          "completedAt": null,
+          "order": 6
+        },
+        {
+          "id": "pzcv2hv5mwf4fbwu",
+          "title": "Dynamic Programming — 1D & 2D",
+          "section": "Unit 4",
+          "notes": "Knapsack + LIS",
+          "completed": false,
+          "completedAt": null,
+          "order": 7
+        },
+        {
+          "id": "alcqvrizmwf4fbwu",
+          "title": "Greedy Algorithms",
+          "section": "Unit 4",
+          "notes": "",
+          "completed": false,
+          "completedAt": null,
+          "order": 8
+        },
+        {
+          "id": "x79idjlumwf4fbwu",
+          "title": "Sorting deep-dive + complexity table",
+          "section": "Unit 1",
+          "notes": "",
+          "completed": true,
+          "completedAt": "2026-11-13",
+          "order": 9
+        }
+      ]
+    },
+    {
+      "id": "g55z9uulmwf4fbwu",
+      "userId": "user_demo",
+      "title": "Organic Chemistry — Mid Term",
+      "subject": "Chemistry",
+      "color": "#ec4899",
+      "deadline": "2026-11-22",
+      "createdAt": "2026-11-13T15:17:51.246Z",
+      "topics": [
+        {
+          "id": "tiw0x1dhmwf4fbwu",
+          "title": "Alkanes, Alkenes & Alkynes",
+          "section": "Hydrocarbons",
+          "notes": "",
+          "completed": true,
+          "completedAt": "2026-11-13",
+          "order": 0
+        },
+        {
+          "id": "rgfkp0t7mwf4fbwu",
+          "title": "Named reactions sheet",
+          "section": "Hydrocarbons",
+          "notes": "",
+          "completed": true,
+          "completedAt": "2026-11-13",
+          "order": 1
+        },
+        {
+          "id": "l2r4lhz3mwf4fbwu",
+          "title": "Alcohols, Phenols & Ethers",
+          "section": "Oxygen Compounds",
+          "notes": "",
+          "completed": false,
+          "completedAt": null,
+          "order": 2
+        },
+        {
+          "id": "j88i8gspmwf4fbwu",
+          "title": "Aldehydes & Ketones — nucleophilic addition",
+          "section": "Oxygen Compounds",
+          "notes": "",
+          "completed": false,
+          "completedAt": null,
+          "order": 3
+        },
+        {
+          "id": "ptcjse4xmwf4fbwu",
+          "title": "Carboxylic Acids & Derivatives",
+          "section": "Oxygen Compounds",
+          "notes": "",
+          "completed": false,
+          "completedAt": null,
+          "order": 4
+        },
+        {
+          "id": "i7lyh0iumwf4fbwu",
+          "title": "Amines & Diazonium Salts",
+          "section": "Nitrogen Compounds",
+          "notes": "",
+          "completed": false,
+          "completedAt": null,
+          "order": 5
+        },
+        {
+          "id": "5mms0mp9mwf4fbwu",
+          "title": "Biomolecules — proteins & enzymes",
+          "section": "Biomolecules",
+          "notes": "",
+          "completed": false,
+          "completedAt": null,
+          "order": 6
+        }
+      ]
+    },
+    {
+      "id": "jga0n7g3mwf4fbwu",
+      "userId": "user_demo",
+      "title": "Indian Polity — UPSC Foundation",
+      "subject": "General Studies",
+      "color": "#f59e0b",
+      "deadline": "2026-12-15",
+      "createdAt": "2026-11-13T15:17:51.246Z",
+      "topics": [
+        {
+          "id": "pabi1xdhmwf4fbwu",
+          "title": "Constitution: Preamble & Fundamental Rights",
+          "section": "Constitution",
+          "notes": "",
+          "completed": true,
+          "completedAt": "2026-11-13",
+          "order": 0
+        },
+        {
+          "id": "6cssnqo5mwf4fbwu",
+          "title": "Directive Principles & Duties",
+          "section": "Constitution",
+          "notes": "",
+          "completed": true,
+          "completedAt": "2026-11-13",
+          "order": 1
+        },
+        {
+          "id": "1y4k0r85mwf4fbwu",
+          "title": "Parliament & State Legislatures",
+          "section": "Governance",
+          "notes": "",
+          "completed": true,
+          "completedAt": "2026-11-13",
+          "order": 2
+        },
+        {
+          "id": "n6bygxfgmwf4fbwu",
+          "title": "Judiciary & Judicial Review",
+          "section": "Governance",
+          "notes": "",
+          "completed": false,
+          "completedAt": null,
+          "order": 3
+        },
+        {
+          "id": "jpgxvrjbmwf4fbwu",
+          "title": "Federal System & Centre-State Relations",
+          "section": "Governance",
+          "notes": "",
+          "completed": false,
+          "completedAt": null,
+          "order": 4
+        },
+        {
+          "id": "h4knq62hmwf4fbwu",
+          "title": "Local Governance — Panchayati Raj",
+          "section": "Governance",
+          "notes": "",
+          "completed": false,
+          "completedAt": null,
+          "order": 5
+        },
+        {
+          "id": "vksvwvbqmwf4fbwu",
+          "title": "Election Commission & Constitutional Bodies",
+          "section": "Bodies",
+          "notes": "",
+          "completed": false,
+          "completedAt": null,
+          "order": 6
+        }
+      ]
+    }
+  ]
+}
